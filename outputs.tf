@@ -11,3 +11,5 @@ output "public" {
   value       = module.main.public_subnets
   description = "List of Public Subnets"
 }
+
+#trigger 1
